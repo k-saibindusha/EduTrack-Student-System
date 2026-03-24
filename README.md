@@ -25,5 +25,10 @@ A Java-based application to manage student records using MySQL database with JDB
 3. Execute Java files.
  
 ## output(screenshort)
-###
+### Add Student
+![add Students] (add.student.png)
+### remove and search student
+![remove and search] (remove_search_student.pg)
+###database table
+![database] (database.png)
 
