@@ -23,3 +23,7 @@ A Java-based application to manage student records using MySQL database with JDB
 1. Import project into Eclipse
 2. Run student_db.sql in MySQL Workbench
 3. Execute Java files.
+ 
+## output(screenshort)
+###
+
